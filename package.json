@@ -4,7 +4,8 @@
   "description": "build app social communication",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tuongbk1210/app_social_communication_backend/issues"
   },
-  "homepage": "https://github.com/tuongbk1210/app_social_communication_backend#readme"
+  "homepage": "https://github.com/tuongbk1210/app_social_communication_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
