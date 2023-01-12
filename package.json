@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "build app social communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuongbk1210/app_social_communication_backend.git"
+  },
+  "author": "Minh Tuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuongbk1210/app_social_communication_backend/issues"
+  },
+  "homepage": "https://github.com/tuongbk1210/app_social_communication_backend#readme"
+}
